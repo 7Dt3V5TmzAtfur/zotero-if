@@ -1,12 +1,36 @@
-<p align="center">
-  <img src="https://i.postimg.cc/7LqZ2fXX/202201180906177.png" width=240 />
-</p>
-<p align="center">
-	<a href="https://www.zotero.org"><img src="https://img.shields.io/badge/Zotero-7-green?style=flat-square&logo=zotero&logoColor=CC2936" alt="Zotero 7" /></a>
-	<a href="https://github.com/qnscholar/zotero-if/releases"><img src="https://img.shields.io/github/v/release/qnscholar/zotero-if?color=blue&logo=github" alt="GitHub release" /></a>
-	<a href="https://i.postimg.cc/fWqSQj5s/202201171141964.png"><img src="https://img.shields.io/badge/公众号-青柠学术-orange?logo=wechat" alt="公众号" /></a>
-	
-</p>
+# Zotero IF 插件：一键查询期刊影响因子与分区
+
+## 概述
+
+Zotero IF 是一款专为学术研究人员设计的插件，旨在简化文献管理过程中的期刊评估工作。通过这款插件，用户可以在Zotero文献条目中直接查看期刊的影响因子和中国科学院分区，无需频繁切换至其他数据库查找。本资源提供了插件的详细使用说明及下载指引，确保您能够高效地整合和评估您的文献资料。
+
+## 特性
+
+- **自动检索**：安装后，插件能自动为新导入的文献更新影响因子和分区信息。
+- **兼容性**：适用于Zotero文献管理软件，帮助用户快速了解每篇文献的重要度。
+- **自定义显示**：允许用户设置默认显示“馆藏编目”和“索书号”，以便查看影响因子和分区信息。
+- **标签管理**：插件会在新文献上自动添加“unread”标签，可通过偏好设置调整这一行为。
+- **简易更新**：对于已有文献，通过右键菜单即可更新影响因子信息。
+
+## 安装步骤
+
+1. **下载插件**：前往资源链接获取最新的.xpi安装文件。
+2. **Zotero中安装**：打开Zotero，进入“工具” -> “附加组件”，点击齿轮图标选择“从文件安装附件”并浏览至下载的.xpi文件路径。
+3. **重启Zotero**：安装完毕后，可能需要重启软件以使插件生效。
+4. **配置显示列**：若需默认显示影响因子和分区，右击文献列表顶部，选择显示“索书号”和“馆藏编目”。
+
+## 使用提示
+
+- **已有文献更新**：选中需要更新的文献，右键点击“Update IF”。
+- **标签自定义**：若不想自动标签化，可进“编辑” -> “首选项” -> “Zotero IF”取消相应选项。
+
+## 结论
+
+Zotero IF插件大大提升了学术写作和研究的便利性，使得用户能在文献管理界面即时获取重要学术指标，是每位Zotero用户的强大辅助工具。通过简单的几步操作，就能让你的文献管理更加智能高效。
+
+请注意，插件使用时需保证网络通畅，以顺利获取期刊数据。祝您研究顺利！
+
+
 
 # Zotero IF
 
